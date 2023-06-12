@@ -36,7 +36,7 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
 ## Program:
 ```
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: RATHISH KUMAR C 
+Developed by: RATHISH KUMAR C
 Register No:212222100043
 
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
@@ -89,39 +89,6 @@ endmodule
   For F2:
   
 ![timing diagram for f2](https://github.com/pradeepsiva20/Experiment--02-Implementation-of-combinational-logic-/assets/120539823/297ca42b-86fe-4317-9241-2089dc3d25a6)
+
 ## Result:
-
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
-
-
-
-
- 
-
-
-
-
-
-
- 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
